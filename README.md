@@ -2,6 +2,8 @@
 
 As a passionate fisherman I created a interactiv Map to show proctected and forbidden zones, where fishing is not allowed in the rhineland-palatinate section of river "Saar" in Germany. I added legal notes to specific areas. Fellow fisherman are able to use the geolocation feature to check, if there are able to fish in their choosen fishing spot.
 
+Deployed to Heroku: https://anglerkarte.herokuapp.com/
+
 # Technologies Used
 
 ## Front-end
